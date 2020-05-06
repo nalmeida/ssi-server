@@ -29,4 +29,4 @@ $ cd ssi-server
 $ ./ssi_server.py
 ```
 
-Visit (http://0.0.0.0:8000/)[] in your browser.
+👉 Visit [http://0.0.0.0:8000/]() in your browser.
